@@ -1,13 +1,14 @@
 # Test Práctico - Frontend
 
-desplegar el pryecto
+desplegar el proyecto
 
 ```bash
 # Clonar el respositorio
 git clone  
 
 # Navegacion a la carpeta
-cd frontend-test-mercado-libre
+cd test-mercadoLibre
+
 
 #Node Version Manager
 nvm use v12.20.0
